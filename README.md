@@ -1,19 +1,40 @@
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Simionescu&layout=compact&theme=dark)
+![Corina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Simionescu&theme=dark&rank_icon=github)-->
 
+<h1 align="center">Languages & Tools</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Simionescu&layout=compact&theme=dark)
-![Corina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Simionescu&theme=dark&rank_icon=github)
+</br>
 
-<!--
-**Corina-Simionescu/Corina-Simionescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img alt="C++" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img alt="SQL Developer" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img alt="C" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img alt="HTML" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="GIT" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
+  <img alt="Oracle" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img alt="Node.js" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
+  <img alt="NPM" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img alt="Nodemon" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
+  <img alt="Express.js" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="Sequelize" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-plain.svg" />
+  <img alt="Postman" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+  <img alt="Linux" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Bash" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+</div>
 
-Here are some ideas to get you started:
+<h1></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<table align="center">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Simionescu&layout=compact&theme=dark">
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Corina-Simionescu&theme=dark&rank_icon=github">
+        </td>
+    </tr>
+</table>
