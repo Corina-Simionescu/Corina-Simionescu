@@ -1,6 +1,3 @@
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Simionescu&layout=compact&theme=dark)
-![Corina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Simionescu&theme=dark&rank_icon=github)-->
-
 <h1 align="center">Languages & Tools</h1>
 
 </br>
@@ -17,8 +14,7 @@
   <img alt="Mongoose" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
   <img alt="Sequelize.js" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-plain.svg" />
   <img alt="Postman" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
-  
-  <img alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+          
   <img alt="C++" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img alt="Java" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Python" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
